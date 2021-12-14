@@ -16,7 +16,7 @@
     "redux-thunk": "^2.3.0",
     "stylized-graphic-component": "^1.0.1"
   },
-  "homepage": "https://ericksilvadev.github.io/trivia-game/",
+  "homepage": "https://thales-daniel.github.io/Trivia-Game/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
