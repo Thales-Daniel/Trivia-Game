@@ -603,6 +603,7 @@ body {
 }
 
 .feedback-container .feedback-assertions {
+  margin-top: 5%;
   font-size: 30px;
   color: #1d1c1c;
 }
